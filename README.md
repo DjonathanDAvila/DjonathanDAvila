@@ -1,5 +1,4 @@
-# Olá, me chamo Djonathan D'Avila! 
-## Bem vindo ao meu perfil GitHub 👋
+## Hei, I'm Djonathan D'Avila! 👋
 
 <!--
 **DjonathanDAvila/DjonathanDAvila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
